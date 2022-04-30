@@ -40,6 +40,9 @@
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="vuejs" width="40" height="40"/>
+  </a>
 </p>
 
 <h4>Nel mio profilo è possibile visionare alcuni dei miei lavori. Dai un'occhiata!</h4>
